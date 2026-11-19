@@ -1,1 +1,26 @@
+body {
+    background-color: #f8fafc;
+    color: #475569;
+}
 
+.navbar {
+    background-color: #eaf2ff;
+}
+
+.navbar-brand, .nav-link {
+    color: #334e78;
+}
+
+.btn-solid.theme-primary {
+    background-color: #4778b8;
+    color: white;
+}
+
+.btn-solid.theme-primary:hover {
+    background-color: #365f94;
+}
+
+.card, .dialog {
+    background-color: white;
+    color: #475569;
+}
